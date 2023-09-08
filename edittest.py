@@ -1,8 +1,9 @@
+"""
 a = "hello"
 b = "world"
 print(a, b)
-
-print(a)
+"""
+#print(a)
 
 print(b)
 print(b, a)
